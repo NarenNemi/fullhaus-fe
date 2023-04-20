@@ -9,7 +9,7 @@ firstly you will want to clone this repository so that you have a copy of my pro
 
 ## Second Step: npm install
 
-Sencondly you will want to open then project in your code editor( Vs code recommended ).
+Sencondly you will want to open then project in your code editor(Vs code recommended).
 
 Once the project is opened in your editor, you will open a terminal and run an npm install to install all your node modules and dependencies.
 (you should have npm already downloaded).
